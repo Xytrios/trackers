@@ -4,7 +4,7 @@
 # The list will improve with time
 #
 # Date: March 22 2019
-# Number of unique domains: 290
+# Number of unique domains: 298
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Xytrios/trackers/master/trackers
 # Project home page: https://github.com/Xytrios/trackers
@@ -95,6 +95,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 builtbygirls.com
 0.0.0.0 buysellads.com
 0.0.0.0 casalemedia.com
+0.0.0.0 cdn.syndication.twimg.com
 0.0.0.0 chango.com
 0.0.0.0 chartbeat.com
 0.0.0.0 clicksor.com
@@ -104,6 +105,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 commissionfactory.com
 0.0.0.0 complex.com
 0.0.0.0 comscore.com
+0.0.0.0 connect.facebook.com
+0.0.0.0 connect.facebook.net
 0.0.0.0 content.bitsontherun.com
 0.0.0.0 conversant-media.com
 0.0.0.0 conversantmedia.com
@@ -224,11 +227,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 outbrain.com
 0.0.0.0 pagefair.com
 0.0.0.0 pardot.com
+0.0.0.0 pbs.twimg.com
 0.0.0.0 perfectaudience.com
 0.0.0.0 perimeterx.net
 0.0.0.0 pinimg.com
 0.0.0.0 pinterest.ca
 0.0.0.0 pinterest.com
+0.0.0.0 platform.twitter.com
 0.0.0.0 plugrush.com
 0.0.0.0 po.st
 0.0.0.0 pof.com
@@ -254,6 +259,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 salemove.com
 0.0.0.0 salesforce.com
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 scontent-sjc2-1.xx.fbcdn.net
+0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scribe.logs.roku.com
 0.0.0.0 semasio.com
@@ -272,6 +279,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 specificmedia.com
 0.0.0.0 srds.com
 0.0.0.0 statcounter.com
+0.0.0.0 staticxx.facebook.com
 0.0.0.0 stumbleupon.com
 0.0.0.0 synacor.com
 0.0.0.0 syndication.twitter.com
