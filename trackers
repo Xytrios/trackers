@@ -3,8 +3,8 @@
 # This hosts file is intended for my personal use, use at your own discretion
 # The list will improve with time
 #
-# Date: October 03 2018
-# Number of unique domains: 285
+# Date: March 22 2019
+# Number of unique domains: 290
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/Xytrios/trackers/master/trackers
 # Project home page: https://github.com/Xytrios/trackers
@@ -60,6 +60,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 akads.co
 0.0.0.0 alibaba.com
 0.0.0.0 analytics.spotify.com
+0.0.0.0 analytics.twitter.com
 0.0.0.0 aol.ca
 0.0.0.0 aol.com
 0.0.0.0 api.mixpanel.com
@@ -119,6 +120,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dianomi.com
 0.0.0.0 discordapp.com
 0.0.0.0 disqus.com
+0.0.0.0 disquscdn.com
 0.0.0.0 dotomi.com
 0.0.0.0 engadget.com
 0.0.0.0 ensighten.com
@@ -176,6 +178,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kissmetrics.com
 0.0.0.0 krux.com
 0.0.0.0 leadbolt.com
+0.0.0.0 licdn.com
 0.0.0.0 license.piriform.com
 0.0.0.0 linkedin.ca
 0.0.0.0 linkedin.com
@@ -203,6 +206,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 monster.com
 0.0.0.0 mopub.com
 0.0.0.0 mouseflow.com
+0.0.0.0 mxpnl.com
 0.0.0.0 myspace.com
 0.0.0.0 netmining.com
 0.0.0.0 newrelic.com
@@ -270,6 +274,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 statcounter.com
 0.0.0.0 stumbleupon.com
 0.0.0.0 synacor.com
+0.0.0.0 syndication.twitter.com
 0.0.0.0 taboola.com
 0.0.0.0 tapad.com
 0.0.0.0 teads.tv
